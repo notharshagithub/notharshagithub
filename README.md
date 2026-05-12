@@ -68,45 +68,85 @@ Status: Building the future ⚡
 
 ---
 
+
 # <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"/> FEATURED PROJECTS
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-7d59b6b3-8d4d-4d4b-bb66-6a2e63a64a6b.gif" width="100%" />
+</p>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 AI PDF Chat App
+<div align="center">
 
-RAG-powered chatbot using LangChain + Gemini + Vector DB
+### 🤖 AI PDF CHAT APP
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/STACK-LangChain%20%7C%20Gemini%20%7C%20VectorDB-8A2BE2?style=for-the-badge"/>
+
+**RAG-powered chatbot**
+<br/>
+Search, chat, and extract answers from PDFs with a sleek AI workflow.
+
+</div>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+<div align="center">
 
-## 📈 AI Stock Prediction
+### 📈 AI STOCK PREDICTION
+<img src="https://img.shields.io/badge/STATUS-ANALYZING-00F7FF?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/STACK-ML%20%7C%20Dashboard%20%7C%20Forecasting-8A2BE2?style=for-the-badge"/>
 
-ML-powered prediction dashboard with analytics
+**Prediction dashboard**
+<br/>
+Machine learning model with live-style analytics and insights.
+
+</div>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 💬 Realtime Chat App
+<div align="center">
 
-Socket.IO + MERN stack communication platform
+### 💬 REALTIME CHAT SYSTEM
+<img src="https://img.shields.io/badge/STATUS-LIVE-00F7FF?style=for-the-badge&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/STACK-Socket.IO%20%7C%20MERN-8A2BE2?style=for-the-badge"/>
+
+**Fast communication platform**
+<br/>
+Realtime messages, rooms, and smooth full-stack interaction.
+
+</div>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+<div align="center">
 
-## 🚀 DevOps Deployment System
+### 🚀 DEVOPS DEPLOYMENT CORE
+<img src="https://img.shields.io/badge/STATUS-AUTOMATED-00F7FF?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/STACK-CI%2FCD%20%7C%20Docker%20%7C%20Kubernetes-8A2BE2?style=for-the-badge"/>
 
-CI/CD + Docker + Kubernetes automation
+**Deployment orchestration**
+<br/>
+Build, ship, and scale with a modern DevOps pipeline.
+
+</div>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:8A2BE2,100:FF00FF&height=3&section=header"/>
+</p>
+
 
 ---
 # <img src="https://img.icons8.com/fluency/48/graph.png" width="30"/> CONTRIBUTION GRAPH
@@ -151,13 +191,45 @@ CI/CD + Docker + Kubernetes automation
 </div>
 
 ---
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<!-- TOP HEADER (Keep your original glitch) -->
+<img src="https://user-images.githubusercontent.com/74038190/212897597-3c4a1f6d-26f1-4f8f-8b2d-1e4b91c6e6e.gif" width="100%"/>
+
+<br>
+
+<!-- CYBERPUNK STATUS LABELS -->
+<img src="https://img.shields.io/badge/INTERFACE-NEURAL_LINK-FF00FF?style=flat-square&logo=render&logoColor=white" /> 
+<img src="https://img.shields.io/badge/DATA_STREAM-ENCRYPTED-00F7FF?style=flat-square&logo=linux-foundation&logoColor=white" />
+<img src="https://img.shields.io/badge/LOCATION-THE_VOID-8A2BE2?style=flat-square&logo=tor-browser&logoColor=white" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+<!-- LOADING DATA STREAM -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&text=DECRYPTING+PROFILE+DATA...&fontSize=30&fontColor=00F7FF&animation=fadeIn" />
+
+<br>
+
+<!-- THE CUSTOM PROGRESS BAR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="3px" />
+<p align="center">
+  <code> [||||||||||||||||||||||||||||||||||----] 94% COMPLETE </code>
+</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/magenta.png" width="100%" height="3px" />
+
+<br><br>
+
+<!-- THE "SIGNAL LOST" FOOTER -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&height=80&lines=SIGNAL+LOST...;SYSTEM+OFFLINE;BYE+BYE+USER.EXE" />
+
+<br>
+
+<!-- FINAL GLITCH SCANLINE -->
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="150px" style="object-fit: cover;" />
+
+<br>
+
+<!-- SUBTLE CREDITS -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00F7FF&height=50&section=footer&text=END%20OF%20LINE&fontSize=20&fontColor=000000" />
 
 </div>
