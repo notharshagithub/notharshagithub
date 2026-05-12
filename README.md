@@ -40,14 +40,11 @@ Status: Building the future ⚡
 </div>
 
 ---
-
-# <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30"/> GITHUB ANALYTICS
+# <img src="https://img.icons8.com/fluency/48/graph.png" width="30"/> GITHUB ANALYTICS
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=notharshagithub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notharshagithub&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -66,9 +63,7 @@ Status: Building the future ⚡
 # <img src="https://img.icons8.com/fluency/48/trophy.png" width="30"/> ACHIEVEMENTS
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=notharshagithub&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 ---
@@ -114,12 +109,11 @@ CI/CD + Docker + Kubernetes automation
 </table>
 
 ---
-
-# <img src="https://img.icons8.com/fluency/48/activity-history.png" width="30"/> CONTRIBUTION GRAPH
+# <img src="https://img.icons8.com/fluency/48/graph.png" width="30"/> CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=notharshagithub&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
 
 </div>
 
@@ -129,8 +123,7 @@ CI/CD + Docker + Kubernetes automation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
