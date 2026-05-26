@@ -184,7 +184,7 @@ Build, ship, and scale with a modern DevOps pipeline.
 <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
 </a>
 
-<a href="https://portfolio-rouge-one-92.vercel.app">
+<a href="https://portfolio-new-psi-snowy-30.vercel.app/">
 <img src="https://skillicons.dev/icons?i=devto" width="60"/>
 </a>
 
