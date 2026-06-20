@@ -1,6 +1,6 @@
 <div align="center">
   <!-- TOP BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=180&section=header&text=HARSHA%20SHETTY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Systems&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1c1c1c,100:333333&height=180&section=header&text=HARSHA%20SHETTY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Systems&descAlignY=65&descAlign=50" width="100%"/>
 
   <br/>
 
@@ -26,47 +26,152 @@
 <br/>
 
 <!-- SECTION: ABOUT ME -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=ABOUT%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=ABOUT%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-<blockquote>
-  <p align="left">
-    <strong>I build production-grade AI systems, highly scalable full-stack applications, and autonomous agents designed to solve complex real-world challenges.</strong><br/>
-    My engineering philosophy combines rigorous system design with a fast-paced startup mindset, focusing on high reliability, performance, and modern clean aesthetics.
-  </p>
-</blockquote>
+<br/>
+
+<!-- INLINE SVG BIO CARD -->
+<svg viewBox="0 0 800 150" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;display=swap');
+    .bg {
+      fill: #050505;
+      stroke: #222222;
+      stroke-width: 1.5;
+      rx: 12px;
+    }
+    .header {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      font-size: 22px;
+      fill: url(#header-grad);
+    }
+    .subheader {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #777777;
+      letter-spacing: 1px;
+    }
+    .desc {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      fill: #a0a0a0;
+    }
+    .highlight {
+      fill: #ffffff;
+      font-weight: 600;
+    }
+  </style>
+  <defs>
+    <linearGradient id="header-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#666666" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="796" height="146" class="bg" />
+  <text x="30" y="42" class="header">ENGINEERING PROFILE</text>
+  <text x="30" y="65" class="subheader">FOUNDER-STYLE AI ENGINEER &amp; FULL STACK DEVELOPER</text>
+  <text x="30" y="100" class="desc">Designing <tspan class="highlight">production-grade AI platforms</tspan>, distributed workflows, and scalable systems.</text>
+  <text x="30" y="122" class="desc">Committed to <tspan class="highlight">high reliability</tspan>, engineering excellence, and clean modern aesthetics.</text>
+</svg>
 
 <br/>
 
 <!-- SECTION: CURRENT FOCUS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=CURRENT%20FOCUS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=CURRENT%20FOCUS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-<table width="100%">
-  <tr>
-    <td width="20%"><strong>🤖 AI & LLMs</strong></td>
-    <td>Multi-agent architectures, reasoning loops, functional tool calling, and RAG systems.</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/badge/ACTIVE-000000?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>🌐 Automation</strong></td>
-    <td>Distributed browser-scraping engines, headless browser pools, and automated workflows.</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/badge/ACTIVE-000000?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>🚀 SaaS Scale</strong></td>
-    <td>High-throughput web backends, responsive user interfaces, and robust state machines.</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/badge/STABLE-000000?style=flat-square" /></td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>📁 Infrastructure</strong></td>
-    <td>Event-driven architectures, distributed caching, pub/sub queues, and serverless compute.</td>
-    <td width="15%" align="right"><img src="https://img.shields.io/badge/STABLE-000000?style=flat-square" /></td>
-  </tr>
-</table>
+<br/>
+
+<!-- INLINE SVG ROADMAP GRID -->
+<svg viewBox="0 0 800 220" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;display=swap');
+    .bg {
+      fill: #050505;
+      stroke: #222222;
+      stroke-width: 1.5;
+      rx: 12px;
+    }
+    .title {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      fill: #ffffff;
+    }
+    .item-title {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #ffffff;
+    }
+    .item-desc {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 400;
+      font-size: 13px;
+      fill: #888888;
+    }
+    .status-active {
+      fill: #ffffff;
+      animation: pulse 2s infinite;
+    }
+    .status-text {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 600;
+      font-size: 11px;
+      fill: #888888;
+    }
+    .separator {
+      stroke: #222222;
+      stroke-width: 1;
+    }
+    @keyframes pulse {
+      0% { fill-opacity: 0.3; }
+      50% { fill-opacity: 1; }
+      100% { fill-opacity: 0.3; }
+    }
+  </style>
+  <rect x="2" y="2" width="796" height="216" class="bg" />
+  
+  <!-- Column headers -->
+  <text x="30" y="30" class="title">Focus Area</text>
+  <text x="250" y="30" class="title">Deployment &amp; Architecture</text>
+  <text x="700" y="30" class="title" text-anchor="middle">Status</text>
+  <line x1="2" y1="45" x2="798" y2="45" class="separator" />
+
+  <!-- Item 1 -->
+  <text x="30" y="70" class="item-title">🤖 AI &amp; LLM Systems</text>
+  <text x="250" y="70" class="item-desc">Multi-agent architectures, reasoning loops, function calling &amp; RAG</text>
+  <circle cx="670" cy="66" r="4" class="status-active" />
+  <text x="685" y="70" class="status-text">ACTIVE</text>
+  <line x1="30" y1="85" x2="770" y2="85" class="separator" />
+
+  <!-- Item 2 -->
+  <text x="30" y="110" class="item-title">🌐 Browser Automation</text>
+  <text x="250" y="110" class="item-desc">Distributed scraping engines, browser pools &amp; headless workflows</text>
+  <circle cx="670" cy="106" r="4" class="status-active" />
+  <text x="685" y="110" class="status-text">ACTIVE</text>
+  <line x1="30" y1="125" x2="770" y2="125" class="separator" />
+
+  <!-- Item 3 -->
+  <text x="30" y="150" class="item-title">🚀 Full Stack SaaS</text>
+  <text x="250" y="150" class="item-desc">High-throughput backends, modern state machines &amp; polished UX</text>
+  <circle cx="670" cy="146" r="4" fill="#555555" />
+  <text x="685" y="150" class="status-text">STABLE</text>
+  <line x1="30" y1="165" x2="770" y2="165" class="separator" />
+
+  <!-- Item 4 -->
+  <text x="30" y="190" class="item-title">📁 Systems &amp; Infra</text>
+  <text x="250" y="190" class="item-desc">Event-driven pipelines, caching, message queues &amp; API design</text>
+  <circle cx="670" cy="186" r="4" fill="#555555" />
+  <text x="685" y="190" class="status-text">STABLE</text>
+</svg>
 
 <br/>
 
 <!-- SECTION: FEATURED PRODUCTS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=FEATURED%20PRODUCTS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=FEATURED%20PRODUCTS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -118,7 +223,7 @@
 <br/>
 
 <!-- SECTION: SYSTEMS & INFRASTRUCTURE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=SYSTEMS%20%26%20INFRASTRUCTURE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=SYSTEMS%20%26%20INFRASTRUCTURE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -178,7 +283,7 @@
 <br/>
 
 <!-- SECTION: TECH STACK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
   <table width="100%">
@@ -227,7 +332,7 @@
 <br/>
 
 <!-- SECTION: METRICS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=METRICS%20%26%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=METRICS%20%26%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -261,7 +366,7 @@
 <br/>
 
 <!-- SECTION: ADVANCED ANALYTICS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=ADVANCED%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=ADVANCED%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-metrics.svg" alt="Advanced GitHub Metrics Dashboard" width="100%" />
@@ -270,7 +375,7 @@
 <br/>
 
 <!-- SECTION: CONTRIBUTION SNAKE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=CONTRIBUTION%20SNAKE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=CONTRIBUTION%20SNAKE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-contribution-grid-snake-dark.svg" alt="Monochrome Snake Contribution Animation" width="100%" />
@@ -279,7 +384,7 @@
 <br/>
 
 <!-- SECTION: LIVE ACTIVITY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=LIVE%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=LIVE%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <!-- START_ACTIVITY -->
 
@@ -305,13 +410,57 @@
 <br/>
 
 <!-- SECTION: PHILOSOPHY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=PHILOSOPHY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=PHILOSOPHY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-<div align="center">
-  <br/>
-  <h2>Build useful things. Learn relentlessly. Ship continuously.</h2>
-  <br/>
-</div>
+<br/>
+
+<!-- INLINE SVG PHILOSOPHY CARD WITH ANIMATED PATH -->
+<svg viewBox="0 0 800 120" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:ital,wght@1,700&amp;display=swap');
+    .bg {
+      fill: #050505;
+      stroke: #222222;
+      stroke-width: 1.5;
+      rx: 12px;
+    }
+    .quote {
+      font-family: 'Outfit', sans-serif;
+      font-style: italic;
+      font-weight: 700;
+      font-size: 24px;
+      fill: url(#quote-grad);
+      text-anchor: middle;
+    }
+    .anim-line {
+      stroke: url(#line-grad);
+      stroke-width: 2;
+      stroke-dasharray: 800;
+      stroke-dashoffset: 800;
+      animation: draw 4s linear infinite;
+    }
+    @keyframes draw {
+      0% { stroke-dashoffset: 800; }
+      50% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: -800; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="quote-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#888888" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#000000" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="796" height="116" class="bg" />
+  <line x1="100" y1="95" x2="700" y2="95" class="anim-line" />
+  <text x="400" y="60" class="quote">" Build useful things. Learn relentlessly. Ship continuously. "</text>
+</svg>
 
 <hr style="border: 0; border-top: 1px solid #333;" />
 
