@@ -236,14 +236,7 @@
 
 <br/>
 
-<!-- SECTION: ADVANCED ANALYTICS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=ADVANCED%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-metrics.svg" alt="Advanced GitHub Metrics Dashboard" width="100%" />
-</div>
-
-<br/>
 
 <!-- SECTION: CONTRIBUTION SNAKE -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=CONTRIBUTION%20SNAKE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
