@@ -30,51 +30,27 @@
 
 <br/>
 
-<!-- INLINE SVG BIO CARD -->
+<!-- INLINE SVG BIO CARD (STRICT ATTRIBUTES, NO STYLE TAG) -->
 <svg viewBox="0 0 800 150" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;display=swap');
-    .bg {
-      fill: #050505;
-      stroke: #222222;
-      stroke-width: 1.5;
-      rx: 12px;
-    }
-    .header {
-      font-family: 'Outfit', sans-serif;
-      font-weight: 700;
-      font-size: 22px;
-      fill: url(#header-grad);
-    }
-    .subheader {
-      font-family: 'Outfit', sans-serif;
-      font-weight: 600;
-      font-size: 13px;
-      fill: #777777;
-      letter-spacing: 1px;
-    }
-    .desc {
-      font-family: 'Outfit', sans-serif;
-      font-weight: 400;
-      font-size: 14px;
-      fill: #a0a0a0;
-    }
-    .highlight {
-      fill: #ffffff;
-      font-weight: 600;
-    }
-  </style>
   <defs>
-    <linearGradient id="header-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="bio-header-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" />
       <stop offset="100%" stop-color="#666666" />
     </linearGradient>
   </defs>
-  <rect x="2" y="2" width="796" height="146" class="bg" />
-  <text x="30" y="42" class="header">ENGINEERING PROFILE</text>
-  <text x="30" y="65" class="subheader">FOUNDER-STYLE AI ENGINEER &amp; FULL STACK DEVELOPER</text>
-  <text x="30" y="100" class="desc">Designing <tspan class="highlight">production-grade AI platforms</tspan>, distributed workflows, and scalable systems.</text>
-  <text x="30" y="122" class="desc">Committed to <tspan class="highlight">high reliability</tspan>, engineering excellence, and clean modern aesthetics.</text>
+  <!-- Background Card -->
+  <rect x="2" y="2" width="796" height="146" fill="#050505" stroke="#222222" stroke-width="1.5" rx="12" />
+  <!-- Title -->
+  <text x="30" y="42" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" font-size="22" fill="url(#bio-header-grad)">ENGINEERING PROFILE</text>
+  <!-- Subtitle -->
+  <text x="30" y="65" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="13" fill="#777777" letter-spacing="1">FOUNDER-STYLE AI ENGINEER &amp; FULL STACK DEVELOPER</text>
+  <!-- Descriptions -->
+  <text x="30" y="100" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="14" fill="#a0a0a0">
+    Designing <tspan fill="#ffffff" font-weight="600">production-grade AI platforms</tspan>, distributed workflows, and scalable systems.
+  </text>
+  <text x="30" y="122" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="14" fill="#a0a0a0">
+    Committed to <tspan fill="#ffffff" font-weight="600">high reliability</tspan>, engineering excellence, and clean modern aesthetics.
+  </text>
 </svg>
 
 <br/>
@@ -84,88 +60,42 @@
 
 <br/>
 
-<!-- INLINE SVG ROADMAP GRID -->
+<!-- INLINE SVG ROADMAP GRID (STRICT ATTRIBUTES, NO STYLE TAG) -->
 <svg viewBox="0 0 800 220" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;display=swap');
-    .bg {
-      fill: #050505;
-      stroke: #222222;
-      stroke-width: 1.5;
-      rx: 12px;
-    }
-    .title {
-      font-family: 'Outfit', sans-serif;
-      font-weight: 700;
-      font-size: 16px;
-      fill: #ffffff;
-    }
-    .item-title {
-      font-family: 'Outfit', sans-serif;
-      font-weight: 600;
-      font-size: 14px;
-      fill: #ffffff;
-    }
-    .item-desc {
-      font-family: 'Outfit', sans-serif;
-      font-weight: 400;
-      font-size: 13px;
-      fill: #888888;
-    }
-    .status-active {
-      fill: #ffffff;
-      animation: pulse 2s infinite;
-    }
-    .status-text {
-      font-family: 'Outfit', sans-serif;
-      font-weight: 600;
-      font-size: 11px;
-      fill: #888888;
-    }
-    .separator {
-      stroke: #222222;
-      stroke-width: 1;
-    }
-    @keyframes pulse {
-      0% { fill-opacity: 0.3; }
-      50% { fill-opacity: 1; }
-      100% { fill-opacity: 0.3; }
-    }
-  </style>
-  <rect x="2" y="2" width="796" height="216" class="bg" />
+  <rect x="2" y="2" width="796" height="216" fill="#050505" stroke="#222222" stroke-width="1.5" rx="12" />
   
   <!-- Column headers -->
-  <text x="30" y="30" class="title">Focus Area</text>
-  <text x="250" y="30" class="title">Deployment &amp; Architecture</text>
-  <text x="700" y="30" class="title" text-anchor="middle">Status</text>
-  <line x1="2" y1="45" x2="798" y2="45" class="separator" />
+  <text x="30" y="32" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" font-size="15" fill="#ffffff">Focus Area</text>
+  <text x="250" y="32" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" font-size="15" fill="#ffffff">Deployment &amp; Architecture</text>
+  <text x="700" y="32" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" font-size="15" fill="#ffffff" text-anchor="middle">Status</text>
+  <line x1="2" y1="48" x2="798" y2="48" stroke="#222222" stroke-width="1" />
 
   <!-- Item 1 -->
-  <text x="30" y="70" class="item-title">🤖 AI &amp; LLM Systems</text>
-  <text x="250" y="70" class="item-desc">Multi-agent architectures, reasoning loops, function calling &amp; RAG</text>
-  <circle cx="670" cy="66" r="4" class="status-active" />
-  <text x="685" y="70" class="status-text">ACTIVE</text>
-  <line x1="30" y1="85" x2="770" y2="85" class="separator" />
+  <text x="30" y="75" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="14" fill="#ffffff">🤖 AI &amp; LLM Systems</text>
+  <text x="250" y="75" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="13" fill="#888888">Multi-agent architectures, reasoning loops, function calling &amp; RAG</text>
+  <circle cx="665" cy="71" r="4" fill="#ffffff" />
+  <text x="680" y="75" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="11" fill="#888888">ACTIVE</text>
+  <line x1="30" y1="92" x2="770" y2="92" stroke="#222222" stroke-width="1" />
 
   <!-- Item 2 -->
-  <text x="30" y="110" class="item-title">🌐 Browser Automation</text>
-  <text x="250" y="110" class="item-desc">Distributed scraping engines, browser pools &amp; headless workflows</text>
-  <circle cx="670" cy="106" r="4" class="status-active" />
-  <text x="685" y="110" class="status-text">ACTIVE</text>
-  <line x1="30" y1="125" x2="770" y2="125" class="separator" />
+  <text x="30" y="118" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="14" fill="#ffffff">🌐 Browser Automation</text>
+  <text x="250" y="118" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="13" fill="#888888">Distributed scraping engines, browser pools &amp; headless workflows</text>
+  <circle cx="665" cy="114" r="4" fill="#ffffff" />
+  <text x="680" y="118" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="11" fill="#888888">ACTIVE</text>
+  <line x1="30" y1="135" x2="770" y2="135" stroke="#222222" stroke-width="1" />
 
   <!-- Item 3 -->
-  <text x="30" y="150" class="item-title">🚀 Full Stack SaaS</text>
-  <text x="250" y="150" class="item-desc">High-throughput backends, modern state machines &amp; polished UX</text>
-  <circle cx="670" cy="146" r="4" fill="#555555" />
-  <text x="685" y="150" class="status-text">STABLE</text>
-  <line x1="30" y1="165" x2="770" y2="165" class="separator" />
+  <text x="30" y="162" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="14" fill="#ffffff">🚀 Full Stack SaaS</text>
+  <text x="250" y="162" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="13" fill="#888888">High-throughput backends, modern state machines &amp; polished UX</text>
+  <circle cx="665" cy="158" r="4" fill="#555555" />
+  <text x="680" y="162" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="11" fill="#555555">STABLE</text>
+  <line x1="30" y1="178" x2="770" y2="178" stroke="#222222" stroke-width="1" />
 
   <!-- Item 4 -->
-  <text x="30" y="190" class="item-title">📁 Systems &amp; Infra</text>
-  <text x="250" y="190" class="item-desc">Event-driven pipelines, caching, message queues &amp; API design</text>
-  <circle cx="670" cy="186" r="4" fill="#555555" />
-  <text x="685" y="190" class="status-text">STABLE</text>
+  <text x="30" y="202" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="14" fill="#ffffff">📁 Systems &amp; Infra</text>
+  <text x="250" y="202" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="13" fill="#888888">Event-driven pipelines, caching, message queues &amp; API design</text>
+  <circle cx="665" cy="198" r="4" fill="#555555" />
+  <text x="680" y="202" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="11" fill="#555555">STABLE</text>
 </svg>
 
 <br/>
@@ -390,15 +320,15 @@
 
 #### 📁 Recently Updated Repositories
 
-- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • ⭐ 0<br/>
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Jun 20, 2026<br/>
   _Config files for my GitHub profile._
-- 🔗 **[BrowseIQ](https://github.com/notharshagithub/BrowseIQ)** — *Python* • ⭐ 0<br/>
+- 🔗 **[BrowseIQ](https://github.com/notharshagithub/BrowseIQ)** — *Python* • Updated Jun 20, 2026<br/>
   _No description provided._
-- 🔗 **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)** — *Python* • ⭐ 0<br/>
+- 🔗 **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)** — *Python* • Updated Jun 19, 2026<br/>
   _No description provided._
-- 🔗 **[AETHER](https://github.com/notharshagithub/AETHER)** — *Python* • ⭐ 0<br/>
+- 🔗 **[AETHER](https://github.com/notharshagithub/AETHER)** — *Python* • Updated May 26, 2026<br/>
   _No description provided._
-- 🔗 **[Portfolio-new](https://github.com/notharshagithub/Portfolio-new)** — *TypeScript* • ⭐ 0<br/>
+- 🔗 **[Portfolio-new](https://github.com/notharshagithub/Portfolio-new)** — *TypeScript* • Updated May 26, 2026<br/>
   _No description provided._
 
 #### ⚡ Recent Activity
@@ -414,52 +344,17 @@
 
 <br/>
 
-<!-- INLINE SVG PHILOSOPHY CARD WITH ANIMATED PATH -->
-<svg viewBox="0 0 800 120" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Outfit:ital,wght@1,700&amp;display=swap');
-    .bg {
-      fill: #050505;
-      stroke: #222222;
-      stroke-width: 1.5;
-      rx: 12px;
-    }
-    .quote {
-      font-family: 'Outfit', sans-serif;
-      font-style: italic;
-      font-weight: 700;
-      font-size: 24px;
-      fill: url(#quote-grad);
-      text-anchor: middle;
-    }
-    .anim-line {
-      stroke: url(#line-grad);
-      stroke-width: 2;
-      stroke-dasharray: 800;
-      stroke-dashoffset: 800;
-      animation: draw 4s linear infinite;
-    }
-    @keyframes draw {
-      0% { stroke-dashoffset: 800; }
-      50% { stroke-dashoffset: 0; }
-      100% { stroke-dashoffset: -800; }
-    }
-  </style>
+<!-- INLINE SVG PHILOSOPHY CARD WITH DYNAMIC GRADIENT (STRICT ATTRIBUTES, NO STYLE TAG) -->
+<svg viewBox="0 0 800 100" width="100%" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="quote-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="quote-text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" />
       <stop offset="50%" stop-color="#888888" />
       <stop offset="100%" stop-color="#ffffff" />
     </linearGradient>
-    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#000000" />
-      <stop offset="50%" stop-color="#ffffff" />
-      <stop offset="100%" stop-color="#000000" />
-    </linearGradient>
   </defs>
-  <rect x="2" y="2" width="796" height="116" class="bg" />
-  <line x1="100" y1="95" x2="700" y2="95" class="anim-line" />
-  <text x="400" y="60" class="quote">" Build useful things. Learn relentlessly. Ship continuously. "</text>
+  <rect x="2" y="2" width="796" height="96" fill="#050505" stroke="#222222" stroke-width="1.5" rx="12" />
+  <text x="400" y="55" font-family="'Outfit', 'Inter', sans-serif" font-style="italic" font-weight="700" font-size="22" fill="url(#quote-text-grad)" text-anchor="middle">" Build useful things. Learn relentlessly. Ship continuously. "</text>
 </svg>
 
 <hr style="border: 0; border-top: 1px solid #333;" />

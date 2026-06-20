@@ -37,7 +37,16 @@ def get_recent_repos():
         desc = repo["description"] or "No description provided."
         stars = repo["stargazers_count"]
         lang = repo["language"] or "Misc"
-        lines.append(f"- 🔗 **[{name}]({url})** — *{lang}* • ⭐ {stars}<br/>\n  _{desc}_")
+        
+        updated_at = repo["updated_at"]
+        try:
+            dt = datetime.strptime(updated_at, "%Y-%m-%dT%H:%M:%SZ")
+            updated_str = dt.strftime("%b %d, %Y")
+        except Exception:
+            updated_str = updated_at[:10]
+            
+        stars_str = f" • ⭐ {stars}" if stars > 0 else ""
+        lines.append(f"- 🔗 **[{name}]({url})** — *{lang}*{stars_str} • Updated {updated_str}<br/>\n  _{desc}_")
     
     return "\n".join(lines)
 
@@ -59,15 +68,17 @@ def get_recent_activity():
         repo_name = event["repo"]["name"]
         repo_url = f"https://github.com/{repo_name}"
         created_at = event["created_at"]
-        dt = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ")
-        date_str = dt.strftime("%b %d, %Y")
+        try:
+            dt = datetime.strptime(created_at, "%Y-%m-%dT%H:%M:%SZ")
+            date_str = dt.strftime("%b %d, %Y")
+        except Exception:
+            date_str = created_at[:10]
         
         if event_type == "PushEvent":
             commits = event.get("payload", {}).get("commits", [])
             for c in commits:
                 if count >= 5:
                     break
-                sha = c["sha"][:7]
                 message = c["message"].split("\n")[0]
                 if message in seen_commits:
                     continue
