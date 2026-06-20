@@ -1,171 +1,189 @@
 <div align="center">
-  <h1>HARSHA SHETTY</h1>
-  <p><strong>AI Engineer & Full Stack Developer</strong></p>
+  <!-- TOP BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=180&section=header&text=HARSHA%20SHETTY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Systems&descAlignY=65&descAlign=50" width="100%"/>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=AI+Engineer;Full+Stack+Developer;Builder;Automation+Enthusiast;Startup+Explorer" alt="Dynamic Role" />
-  </p>
-  
+  <br/>
+
+  <!-- TYPING SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=AI+ENGINEER;FULL+STACK+DEVELOPER;BUILDER;AUTOMATION+ENTHUSIAST;STARTUP+EXPLORER" />
+
+  <br/>
+
+  <!-- CONTACT BADGES -->
   <p align="center">
     <a href="mailto:harshashetty256@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-harshashetty256@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/harsha-shetty-16b020314/">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-HARSHA_SHETTY-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
     </a>
     <a href="https://portfolio-new-psi-snowy-30.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Live-ffffff?style=flat-square&logo=devto&logoColor=000000" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_DEMO-000000?style=for-the-badge&logo=devto&logoColor=ffffff" alt="Portfolio" />
     </a>
   </p>
 </div>
 
----
+<br/>
 
-### About Me
+<!-- SECTION: ABOUT ME -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=ABOUT%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-> I build production-grade AI systems, highly scalable full-stack applications, and autonomous agents designed to solve complex real-world challenges. My approach combines rigorous system design with a fast-paced startup mindset, focusing on high reliability, performance, and clean aesthetics.
+<blockquote>
+  <p align="left">
+    <strong>I build production-grade AI systems, highly scalable full-stack applications, and autonomous agents designed to solve complex real-world challenges.</strong><br/>
+    My engineering philosophy combines rigorous system design with a fast-paced startup mindset, focusing on high reliability, performance, and modern clean aesthetics.
+  </p>
+</blockquote>
 
----
+<br/>
 
-### Currently Building
+<!-- SECTION: CURRENT FOCUS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=CURRENT%20FOCUS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-```
-┌───────────────────────────┬────────────────────────────────────────────────────────────────┐
-│ Focus Area                │ Description                                                    │
-├───────────────────────────┼────────────────────────────────────────────────────────────────┤
-│ 🤖 AI Agents & LLMs       │ Multi-agent architectures, function calling, & reasoning loops │
-│ 🌐 Browser Automation     │ Distributed browser scraping and headless flow orchestration  │
-│ 🚀 Full Stack SaaS        │ High-throughput web applications with polished UX/UI designs   │
-│ 📁 System Design          │ Scalable backend message queues, caching, and robust APIs      │
-└───────────────────────────┴────────────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+  <tr>
+    <td width="20%"><strong>🤖 AI & LLMs</strong></td>
+    <td>Multi-agent architectures, reasoning loops, functional tool calling, and RAG systems.</td>
+    <td width="15%" align="right"><img src="https://img.shields.io/badge/ACTIVE-000000?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>🌐 Automation</strong></td>
+    <td>Distributed browser-scraping engines, headless browser pools, and automated workflows.</td>
+    <td width="15%" align="right"><img src="https://img.shields.io/badge/ACTIVE-000000?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>🚀 SaaS Scale</strong></td>
+    <td>High-throughput web backends, responsive user interfaces, and robust state machines.</td>
+    <td width="15%" align="right"><img src="https://img.shields.io/badge/STABLE-000000?style=flat-square" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><strong>📁 Infrastructure</strong></td>
+    <td>Event-driven architectures, distributed caching, pub/sub queues, and serverless compute.</td>
+    <td width="15%" align="right"><img src="https://img.shields.io/badge/STABLE-000000?style=flat-square" /></td>
+  </tr>
+</table>
 
----
+<br/>
 
-### Featured Projects
+<!-- SECTION: FEATURED PRODUCTS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=FEATURED%20PRODUCTS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-#### AI-Native Applications
-
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <h3>🤖 PersonaGen</h3>
-      <p><em>AI-powered persona engine for generating synthetic user profiles.</em></p>
-      <p><strong>Architecture Highlights:</strong></p>
+      <img src="https://img.shields.io/badge/STATUS-STABLE-000000?style=flat-square" /><br/><br/>
+      AI persona engine that simulates user behavioral profiles and synthetic audience models.
+      <br/><br/>
+      <strong>Key Architecture:</strong>
       <ul>
-        <li>Serverless orchestration layer for multi-persona simulation</li>
-        <li>Dynamic behavioral and personality modeling matching</li>
+        <li>Serverless runner mapping personas with state machine actions</li>
+        <li>Generative profile schemas</li>
       </ul>
-      <p><strong>Stack:</strong> React • Firebase • Tailwind • Gemini API</p>
-      <p>
-        <a href="https://github.com/notharshagithub/PersonaGen">Source</a> • 
-        <a href="https://personagen-demo.vercel.app">Demo</a>
-      </p>
+      <strong>Stack:</strong> React • Firebase • Tailwind • Gemini API
+      <br/><br/>
+      <a href="https://github.com/notharshagithub/PersonaGen">Source Code</a> • <a href="https://personagen-demo.vercel.app">Live Demo</a>
     </td>
     <td width="33%" valign="top">
       <h3>📄 AI Resume Builder</h3>
-      <p><em>Intelligent PDF parsing and professional ATS-friendly resume generator.</em></p>
-      <p><strong>Architecture Highlights:</strong></p>
+      <img src="https://img.shields.io/badge/STATUS-PRODUCTION-000000?style=flat-square" /><br/><br/>
+      ATS-compliant resume generator that extracts, parses, and matches profile variables.
+      <br/><br/>
+      <strong>Key Architecture:</strong>
       <ul>
-        <li>Vector-based semantic keyword indexing for target matching</li>
-        <li>Asynchronous parsing queue with automatic schema parsing</li>
+        <li>Semantic matching comparing index tokens to target job descriptions</li>
+        <li>Queue-based async parser</li>
       </ul>
-      <p><strong>Stack:</strong> Next.js • Supabase • Express • Gemini API</p>
-      <p>
-        <a href="https://github.com/notharshagithub/AI-Resume-Builder">Source</a> • 
-        <a href="https://ai-resume-demo.vercel.app">Demo</a>
-      </p>
+      <strong>Stack:</strong> Next.js • Supabase • Express • Gemini API
+      <br/><br/>
+      <a href="https://github.com/notharshagithub/AI-Resume-Builder">Source Code</a> • <a href="https://ai-resume-demo.vercel.app">Live Demo</a>
     </td>
     <td width="33%" valign="top">
       <h3>🗺️ AI Travel Guide</h3>
-      <p><em>Hyper-personalized travel itineraries dynamically adapted to user preferences.</em></p>
-      <p><strong>Architecture Highlights:</strong></p>
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=flat-square" /><br/><br/>
+      Hyper-personalized, location-based itinerary mapping with adaptive real-time metrics.
+      <br/><br/>
+      <strong>Key Architecture:</strong>
       <ul>
-        <li>Graph-based routing algorithm combined with semantic location search</li>
-        <li>Realtime weather and traffic adaptation pipeline</li>
+        <li>Graph routing pipeline optimized with LLM local point recommendations</li>
+        <li>Dynamic weather integration</li>
       </ul>
-      <p><strong>Stack:</strong> React • Node.js • Supabase • Gemini API</p>
-      <p>
-        <a href="https://github.com/notharshagithub/AI-Travel-Guide">Source</a> • 
-        <a href="https://ai-travel-demo.vercel.app">Demo</a>
-      </p>
+      <strong>Stack:</strong> React • Node.js • Supabase • Gemini API
+      <br/><br/>
+      <a href="https://github.com/notharshagithub/AI-Travel-Guide">Source Code</a> • <a href="https://ai-travel-demo.vercel.app">Live Demo</a>
     </td>
   </tr>
 </table>
 
-#### Systems & Infrastructure
+<br/>
 
-<table>
+<!-- SECTION: SYSTEMS & INFRASTRUCTURE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=SYSTEMS%20%26%20INFRASTRUCTURE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>💬 Realtime Chat System</h3>
-      <p><em>Fast communication platform with rooms and instant messaging.</em></p>
-      <p><strong>Architecture Highlights:</strong></p>
+      <img src="https://img.shields.io/badge/SCALE-PRODUCTION-000000?style=flat-square" /><br/><br/>
+      Multi-room message system built with cache synchronization layers for horizontal scale.
       <ul>
-        <li>Redis pub/sub horizontal scaling for multi-node WebSockets</li>
-        <li>Distributed state storage with cache-aside pattern</li>
+        <li>Redis pub/sub horizontal scaling for multi-instance sync</li>
+        <li>Distributed state storage utilizing the cache-aside pattern</li>
       </ul>
-      <p><strong>Stack:</strong> Socket.IO • Node.js • Express • MongoDB • Redis</p>
-      <p>
-        <a href="https://github.com/notharshagithub/realtime-chat">Source</a> • 
-        <a href="https://chat-live.vercel.app">Demo</a>
-      </p>
+      <strong>Stack:</strong> Socket.IO • Node.js • Express • MongoDB • Redis
+      <br/><br/>
+      <a href="https://github.com/notharshagithub/realtime-chat">Source Code</a> • <a href="https://chat-live.vercel.app">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🚀 DevOps Deployment Core</h3>
-      <p><em>Robust deployment orchestration and automation pipeline.</em></p>
-      <p><strong>Architecture Highlights:</strong></p>
+      <img src="https://img.shields.io/badge/SCALE-AUTOMATED-000000?style=flat-square" /><br/><br/>
+      Containerized build, validation, and rollout infrastructure supporting Zero-Downtime deploy patterns.
       <ul>
-        <li>Automated containerized multi-stage builds and zero-downtime rollouts</li>
-        <li>Helm-based Kubernetes configuration with Prometheus monitoring</li>
+        <li>Automated containerized multi-stage validation actions</li>
+        <li>Kubernetes cluster config using Prometheus logging/monitoring</li>
       </ul>
-      <p><strong>Stack:</strong> GitHub Actions • Docker • Kubernetes • AWS</p>
-      <p>
-        <a href="https://github.com/notharshagithub/devops-core">Source</a> • 
-        <a href="https://devops-core.vercel.app">Demo</a>
-      </p>
+      <strong>Stack:</strong> Actions • Docker • Kubernetes • AWS
+      <br/><br/>
+      <a href="https://github.com/notharshagithub/devops-core">Source Code</a> • <a href="https://devops-core.vercel.app">Live Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📄 AI PDF Chat App</h3>
-      <p><em>RAG-powered conversational search across uploaded PDF documents.</em></p>
-      <p><strong>Architecture Highlights:</strong></p>
+      <img src="https://img.shields.io/badge/SCALE-STABLE-000000?style=flat-square" /><br/><br/>
+      Retrieval-Augmented Generation dashboard supporting conversational context queries.
       <ul>
-        <li>Retrieval Augmented Generation with hierarchical text chunking</li>
-        <li>ChromaDB vector similarity search with semantic cache layer</li>
+        <li>Hierarchical document indexing, layout extraction and parsing</li>
+        <li>Vector database semantic search with a performance cache layer</li>
       </ul>
-      <p><strong>Stack:</strong> LangChain • Gemini • VectorDB • FastAPI</p>
-      <p>
-        <a href="https://github.com/notharshagithub/ai-pdf-chat">Source</a> • 
-        <a href="https://pdf-chat.vercel.app">Demo</a>
-      </p>
+      <strong>Stack:</strong> LangChain • Gemini • VectorDB • FastAPI
+      <br/><br/>
+      <a href="https://github.com/notharshagithub/ai-pdf-chat">Source Code</a> • <a href="https://pdf-chat.vercel.app">Live Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 AI Stock Prediction</h3>
-      <p><em>Machine learning forecasting model with live analytics dashboard.</em></p>
-      <p><strong>Architecture Highlights:</strong></p>
+      <img src="https://img.shields.io/badge/SCALE-ACTIVE-000000?style=flat-square" /><br/><br/>
+      Continuous machine learning modeling pipeline predicting security forecast metrics.
       <ul>
-        <li>Time-series forecasting with continuous feature engineering pipeline</li>
+        <li>Time-series forecasting with hourly model parameter updates</li>
         <li>High-frequency live market data stream ingestion architecture</li>
       </ul>
-      <p><strong>Stack:</strong> ML Models • Python • FastAPI • PostgreSQL • React</p>
-      <p>
-        <a href="https://github.com/notharshagithub/stock-prediction">Source</a> • 
-        <a href="https://stock-predict.vercel.app">Demo</a>
-      </p>
+      <strong>Stack:</strong> Python • FastAPI • PostgreSQL • React
+      <br/><br/>
+      <a href="https://github.com/notharshagithub/stock-prediction">Source Code</a> • <a href="https://stock-predict.vercel.app">Live Demo</a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### Tech Stack
+<!-- SECTION: TECH STACK -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="left"><strong>Frontend</strong></td>
+      <td width="20%" align="left"><strong>Frontend</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=ffffff" alt="React" />
         <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=ffffff" alt="Vite" />
@@ -173,21 +191,21 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><strong>Backend</strong></td>
+      <td width="20%" align="left"><strong>Backend</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=ffffff" alt="Express" />
       </td>
     </tr>
     <tr>
-      <td align="left"><strong>Database</strong></td>
+      <td width="20%" align="left"><strong>Database</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=ffffff" alt="Supabase" />
         <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=ffffff" alt="Firebase" />
       </td>
     </tr>
     <tr>
-      <td align="left"><strong>AI & ML</strong></td>
+      <td width="20%" align="left"><strong>AI & ML</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=google&logoColor=ffffff" alt="Gemini" />
         <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logo=github&logoColor=ffffff" alt="Prompt Eng" />
@@ -195,7 +213,7 @@
       </td>
     </tr>
     <tr>
-      <td align="left"><strong>Tools</strong></td>
+      <td width="20%" align="left"><strong>Tools</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
@@ -206,58 +224,68 @@
   </table>
 </div>
 
----
+<br/>
 
-### Development Metrics
+<!-- SECTION: METRICS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=METRICS%20%26%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notharshagithub&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ffffff&icon_color=888888&title_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notharshagithub&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ffffff&icon_color=888888&title_color=ffffff" width="48%" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notharshagithub&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ffffff&icon_color=888888&title_color=ffffff" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notharshagithub&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ffffff&icon_color=888888&title_color=ffffff" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=notharshagithub&theme=dark&hide_border=true&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="97%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notharshagithub&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=ffffff&line=ffffff&point=888888" width="97%" />
-</div>
-
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notharshagithub&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=notharshagithub&theme=dark&hide_border=true&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" />
 </div>
 
----
-
-### Advanced Repository Analytics
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-metrics.svg" alt="Advanced GitHub Metrics Dashboard" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notharshagithub&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=ffffff&line=ffffff&point=888888" width="100%" />
 </div>
 
----
-
-### Contribution Snake
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-contribution-grid-snake-dark.svg" alt="Monochrome Snake Contribution Animation" width="97%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=notharshagithub&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" />
 </div>
 
----
+<br/>
 
-### Live Activity Feed
+<!-- SECTION: ADVANCED ANALYTICS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=ADVANCED%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-metrics.svg" alt="Advanced GitHub Metrics Dashboard" width="100%" />
+</div>
+
+<br/>
+
+<!-- SECTION: CONTRIBUTION SNAKE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=CONTRIBUTION%20SNAKE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-contribution-grid-snake-dark.svg" alt="Monochrome Snake Contribution Animation" width="100%" />
+</div>
+
+<br/>
+
+<!-- SECTION: LIVE ACTIVITY -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=LIVE%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <!-- START_ACTIVITY -->
 
 #### 📁 Recently Updated Repositories
 
-- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Misc* • ⭐ 0<br/>
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • ⭐ 0<br/>
   _Config files for my GitHub profile._
 - 🔗 **[BrowseIQ](https://github.com/notharshagithub/BrowseIQ)** — *Python* • ⭐ 0<br/>
   _No description provided._
@@ -274,13 +302,18 @@
 
 <!-- END_ACTIVITY -->
 
----
+<br/>
 
-### Engineering Philosophy
+<!-- SECTION: PHILOSOPHY -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=header&text=PHILOSOPHY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
-> Build useful things. Learn relentlessly. Ship continuously.
+<div align="center">
+  <br/>
+  <h2>Build useful things. Learn relentlessly. Ship continuously.</h2>
+  <br/>
+</div>
 
----
+<hr style="border: 0; border-top: 1px solid #333;" />
 
 <div align="center">
   <sub>Managed automatically via GitHub Actions • Redesigned with absolute precision.</sub>
