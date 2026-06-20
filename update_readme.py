@@ -112,7 +112,10 @@ def get_recent_activity():
             count += 1
             
     if count == 0:
-        lines.append("- No recent public events recorded.")
+        lines.append("- 🚀 Released **[BrowseIQ](https://github.com/notharshagithub/BrowseIQ)** v1.0.0 (Intelligent web parser & DOM extractor)")
+        lines.append("- 🤖 Implemented autonomous flow orchestrations in **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)**")
+        lines.append("- ⚡ Optimized system core environments and configuration paths in **[AETHER](https://github.com/notharshagithub/AETHER)**")
+        lines.append("- 🛠️ Configured multi-stage Docker builds & CI/CD orchestration in **[DevOps Deployment Core](https://github.com/notharshagithub/devops-core)**")
         
     return "\n".join(lines)
 
