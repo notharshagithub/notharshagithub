@@ -1,0 +1,82 @@
+<svg viewBox="0 0 800 220" width="800" height="220" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&amp;display=swap');
+    .bg {
+      fill: #050505;
+      stroke: #222222;
+      stroke-width: 1.5;
+      rx: 12px;
+    }
+    .title {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      fill: #ffffff;
+    }
+    .item-title {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #ffffff;
+    }
+    .item-desc {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 400;
+      font-size: 13px;
+      fill: #888888;
+    }
+    .status-active {
+      fill: #ffffff;
+      animation: pulse 2s infinite;
+    }
+    .status-text {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 600;
+      font-size: 11px;
+      fill: #888888;
+    }
+    .separator {
+      stroke: #222222;
+      stroke-width: 1;
+    }
+    @keyframes pulse {
+      0% { fill-opacity: 0.3; }
+      50% { fill-opacity: 1; }
+      100% { fill-opacity: 0.3; }
+    }
+  </style>
+  <rect x="2" y="2" width="796" height="216" class="bg" />
+  
+  <!-- Column headers -->
+  <text x="30" y="32" class="title">Focus Area</text>
+  <text x="250" y="32" class="title">Deployment &amp; Architecture</text>
+  <text x="700" y="32" class="title" text-anchor="middle">Status</text>
+  <line x1="2" y1="48" x2="798" y2="48" class="separator" />
+
+  <!-- Item 1 -->
+  <text x="30" y="75" class="item-title">🤖 AI &amp; LLM Systems</text>
+  <text x="250" y="75" class="item-desc">Multi-agent architectures, reasoning loops, function calling &amp; RAG</text>
+  <circle cx="665" cy="71" r="4" class="status-active" />
+  <text x="680" y="75" class="status-text">ACTIVE</text>
+  <line x1="30" y1="92" x2="770" y2="92" class="separator" />
+
+  <!-- Item 2 -->
+  <text x="30" y="118" class="item-title">🌐 Browser Automation</text>
+  <text x="250" y="118" class="item-desc">Distributed scraping engines, browser pools &amp; headless workflows</text>
+  <circle cx="665" cy="114" r="4" class="status-active" />
+  <text x="680" y="118" class="status-text">ACTIVE</text>
+  <line x1="30" y1="135" x2="770" y2="135" class="separator" />
+
+  <!-- Item 3 -->
+  <text x="30" y="162" class="item-title">🚀 Full Stack SaaS</text>
+  <text x="250" y="162" class="item-desc">High-throughput backends, modern state machines &amp; polished UX</text>
+  <circle cx="665" cy="158" r="4" fill="#555555" />
+  <text x="680" y="162" class="status-text">STABLE</text>
+  <line x1="30" y1="178" x2="770" y2="178" class="separator" />
+
+  <!-- Item 4 -->
+  <text x="30" y="202" class="item-title">📁 Systems &amp; Infra</text>
+  <text x="250" y="202" class="item-desc">Event-driven pipelines, caching, message queues &amp; API design</text>
+  <circle cx="665" cy="198" r="4" fill="#555555" />
+  <text x="680" y="202" class="status-text">STABLE</text>
+</svg>

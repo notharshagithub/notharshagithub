@@ -1,0 +1,46 @@
+<svg viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:ital,wght@1,700&amp;display=swap');
+    .bg {
+      fill: #050505;
+      stroke: #222222;
+      stroke-width: 1.5;
+      rx: 12px;
+    }
+    .quote {
+      font-family: 'Outfit', sans-serif;
+      font-style: italic;
+      font-weight: 700;
+      font-size: 22px;
+      fill: url(#quote-grad);
+      text-anchor: middle;
+    }
+    .anim-line {
+      stroke: url(#line-grad);
+      stroke-width: 2;
+      stroke-dasharray: 800;
+      stroke-dashoffset: 800;
+      animation: draw 4s linear infinite;
+    }
+    @keyframes draw {
+      0% { stroke-dashoffset: 800; }
+      50% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: -800; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="quote-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#888888" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000000" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#000000" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="796" height="96" class="bg" />
+  <line x1="100" y1="80" class="anim-line" />
+  <text x="400" y="50" class="quote">" Build useful things. Learn relentlessly. Ship continuously. "</text>
+</svg>

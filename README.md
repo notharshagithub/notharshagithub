@@ -1,6 +1,6 @@
 <div align="center">
   <!-- TOP BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:1c1c1c,100:333333&height=180&section=header&text=HARSHA%20SHETTY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Systems&descAlignY=65&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=180&section=header&text=HARSHA%20SHETTY&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Systems&descAlignY=65&descAlign=50" width="100%"/>
 
   <br/>
 
@@ -26,82 +26,27 @@
 <br/>
 
 <!-- SECTION: ABOUT ME -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=ABOUT%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=ABOUT%20ME&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
-<!-- INLINE SVG BIO CARD (STRICT ATTRIBUTES, NO STYLE TAG) -->
-<svg viewBox="0 0 800 150" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bio-header-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="100%" stop-color="#666666" />
-    </linearGradient>
-  </defs>
-  <!-- Background Card -->
-  <rect x="2" y="2" width="796" height="146" fill="#050505" stroke="#222222" stroke-width="1.5" rx="12" />
-  <!-- Title -->
-  <text x="30" y="42" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" font-size="22" fill="url(#bio-header-grad)">ENGINEERING PROFILE</text>
-  <!-- Subtitle -->
-  <text x="30" y="65" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="13" fill="#777777" letter-spacing="1">FOUNDER-STYLE AI ENGINEER &amp; FULL STACK DEVELOPER</text>
-  <!-- Descriptions -->
-  <text x="30" y="100" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="14" fill="#a0a0a0">
-    Designing <tspan fill="#ffffff" font-weight="600">production-grade AI platforms</tspan>, distributed workflows, and scalable systems.
-  </text>
-  <text x="30" y="122" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="14" fill="#a0a0a0">
-    Committed to <tspan fill="#ffffff" font-weight="600">high reliability</tspan>, engineering excellence, and clean modern aesthetics.
-  </text>
-</svg>
+<!-- SECURE HOSTED SVG BIO CARD -->
+<img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/main/assets/bio-card.svg" alt="Engineering Bio" width="100%" />
 
-<br/>
+<br/><br/>
 
 <!-- SECTION: CURRENT FOCUS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=CURRENT%20FOCUS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=CURRENT%20FOCUS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
-<!-- INLINE SVG ROADMAP GRID (STRICT ATTRIBUTES, NO STYLE TAG) -->
-<svg viewBox="0 0 800 220" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <rect x="2" y="2" width="796" height="216" fill="#050505" stroke="#222222" stroke-width="1.5" rx="12" />
-  
-  <!-- Column headers -->
-  <text x="30" y="32" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" font-size="15" fill="#ffffff">Focus Area</text>
-  <text x="250" y="32" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" font-size="15" fill="#ffffff">Deployment &amp; Architecture</text>
-  <text x="700" y="32" font-family="'Outfit', 'Inter', sans-serif" font-weight="700" font-size="15" fill="#ffffff" text-anchor="middle">Status</text>
-  <line x1="2" y1="48" x2="798" y2="48" stroke="#222222" stroke-width="1" />
+<!-- SECURE HOSTED SVG ROADMAP GRID -->
+<img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/main/assets/roadmap.svg" alt="Current Focus Roadmap" width="100%" />
 
-  <!-- Item 1 -->
-  <text x="30" y="75" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="14" fill="#ffffff">🤖 AI &amp; LLM Systems</text>
-  <text x="250" y="75" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="13" fill="#888888">Multi-agent architectures, reasoning loops, function calling &amp; RAG</text>
-  <circle cx="665" cy="71" r="4" fill="#ffffff" />
-  <text x="680" y="75" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="11" fill="#888888">ACTIVE</text>
-  <line x1="30" y1="92" x2="770" y2="92" stroke="#222222" stroke-width="1" />
-
-  <!-- Item 2 -->
-  <text x="30" y="118" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="14" fill="#ffffff">🌐 Browser Automation</text>
-  <text x="250" y="118" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="13" fill="#888888">Distributed scraping engines, browser pools &amp; headless workflows</text>
-  <circle cx="665" cy="114" r="4" fill="#ffffff" />
-  <text x="680" y="118" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="11" fill="#888888">ACTIVE</text>
-  <line x1="30" y1="135" x2="770" y2="135" stroke="#222222" stroke-width="1" />
-
-  <!-- Item 3 -->
-  <text x="30" y="162" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="14" fill="#ffffff">🚀 Full Stack SaaS</text>
-  <text x="250" y="162" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="13" fill="#888888">High-throughput backends, modern state machines &amp; polished UX</text>
-  <circle cx="665" cy="158" r="4" fill="#555555" />
-  <text x="680" y="162" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="11" fill="#555555">STABLE</text>
-  <line x1="30" y1="178" x2="770" y2="178" stroke="#222222" stroke-width="1" />
-
-  <!-- Item 4 -->
-  <text x="30" y="202" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="14" fill="#ffffff">📁 Systems &amp; Infra</text>
-  <text x="250" y="202" font-family="'Outfit', 'Inter', sans-serif" font-weight="400" font-size="13" fill="#888888">Event-driven pipelines, caching, message queues &amp; API design</text>
-  <circle cx="665" cy="198" r="4" fill="#555555" />
-  <text x="680" y="202" font-family="'Outfit', 'Inter', sans-serif" font-weight="600" font-size="11" fill="#555555">STABLE</text>
-</svg>
-
-<br/>
+<br/><br/>
 
 <!-- SECTION: FEATURED PRODUCTS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=FEATURED%20PRODUCTS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=FEATURED%20PRODUCTS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -153,7 +98,7 @@
 <br/>
 
 <!-- SECTION: SYSTEMS & INFRASTRUCTURE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=SYSTEMS%20%26%20INFRASTRUCTURE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=SYSTEMS%20%26%20INFRASTRUCTURE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -213,7 +158,7 @@
 <br/>
 
 <!-- SECTION: TECH STACK -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=TECH%20STACK&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
   <table width="100%">
@@ -262,15 +207,15 @@
 <br/>
 
 <!-- SECTION: METRICS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=METRICS%20%26%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=METRICS%20%26%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notharshagithub&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ffffff&icon_color=888888&title_color=ffffff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=notharshagithub&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ffffff&icon_color=888888&title_color=ffffff" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=notharshagithub&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ffffff&icon_color=888888&title_color=ffffff" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notharshagithub&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=ffffff&icon_color=888888&title_color=ffffff" width="100%" />
     </td>
   </tr>
 </table>
@@ -296,7 +241,7 @@
 <br/>
 
 <!-- SECTION: ADVANCED ANALYTICS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=ADVANCED%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=ADVANCED%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-metrics.svg" alt="Advanced GitHub Metrics Dashboard" width="100%" />
@@ -305,7 +250,7 @@
 <br/>
 
 <!-- SECTION: CONTRIBUTION SNAKE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=CONTRIBUTION%20SNAKE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=CONTRIBUTION%20SNAKE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/output/github-contribution-grid-snake-dark.svg" alt="Monochrome Snake Contribution Animation" width="100%" />
@@ -314,7 +259,7 @@
 <br/>
 
 <!-- SECTION: LIVE ACTIVITY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=LIVE%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=LIVE%20ACTIVITY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <!-- START_ACTIVITY -->
 
@@ -340,22 +285,12 @@
 <br/>
 
 <!-- SECTION: PHILOSOPHY -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2d2d2d&height=40&section=header&text=PHILOSOPHY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=PHILOSOPHY&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <br/>
 
-<!-- INLINE SVG PHILOSOPHY CARD WITH DYNAMIC GRADIENT (STRICT ATTRIBUTES, NO STYLE TAG) -->
-<svg viewBox="0 0 800 100" width="100%" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="quote-text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="50%" stop-color="#888888" />
-      <stop offset="100%" stop-color="#ffffff" />
-    </linearGradient>
-  </defs>
-  <rect x="2" y="2" width="796" height="96" fill="#050505" stroke="#222222" stroke-width="1.5" rx="12" />
-  <text x="400" y="55" font-family="'Outfit', 'Inter', sans-serif" font-style="italic" font-weight="700" font-size="22" fill="url(#quote-text-grad)" text-anchor="middle">" Build useful things. Learn relentlessly. Ship continuously. "</text>
-</svg>
+<!-- SECURE HOSTED SVG PHILOSOPHY CARD -->
+<img src="https://raw.githubusercontent.com/notharshagithub/notharshagithub/main/assets/philosophy.svg" alt="Philosophy Quote" width="100%" />
 
 <hr style="border: 0; border-top: 1px solid #333;" />
 
