@@ -264,13 +264,13 @@
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Jun 20, 2026<br/>
   _Config files for my GitHub profile._
 - 🔗 **[BrowseIQ](https://github.com/notharshagithub/BrowseIQ)** — *Python* • Updated Jun 20, 2026<br/>
-  _No description provided._
+  _Intelligent web parsing, semantic extraction, and DOM analysis library._
 - 🔗 **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)** — *Python* • Updated Jun 19, 2026<br/>
-  _No description provided._
+  _Autonomous LLM-driven browser agent for executing automated web workflows._
 - 🔗 **[AETHER](https://github.com/notharshagithub/AETHER)** — *Python* • Updated May 26, 2026<br/>
-  _No description provided._
+  _Advanced lightweight system environment and core shell customization utility._
 - 🔗 **[Portfolio-new](https://github.com/notharshagithub/Portfolio-new)** — *TypeScript* • Updated May 26, 2026<br/>
-  _No description provided._
+  _Modern developer portfolio web app demonstrating full-stack engineering capability._
 
 #### ⚡ Recent Activity
 

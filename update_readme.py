@@ -20,6 +20,19 @@ def fetch_json(url):
         print(f"Error fetching {url}: {e}")
         return None
 
+def generate_desc_from_name(name):
+    lookup = {
+        "BrowseIQ": "Intelligent web parsing, semantic extraction, and DOM analysis library.",
+        "Browser-AI-Agent": "Autonomous LLM-driven browser agent for executing automated web workflows.",
+        "AETHER": "Advanced lightweight system environment and core shell customization utility.",
+        "Portfolio-new": "Modern developer portfolio web app demonstrating full-stack engineering capability.",
+        "notharshagithub": "Monochrome configurations and automation pipelines for my GitHub profile."
+    }
+    if name in lookup:
+        return lookup[name]
+    clean_name = name.replace("-", " ").replace("_", " ")
+    return f"A software development repository for {clean_name.strip()}."
+
 def get_recent_repos():
     url = f"https://api.github.com/users/{USER}/repos?sort=updated&per_page=10"
     repos = fetch_json(url)
@@ -34,7 +47,7 @@ def get_recent_repos():
     for repo in non_forks:
         name = repo["name"]
         url = repo["html_url"]
-        desc = repo["description"] or "No description provided."
+        desc = repo["description"] or generate_desc_from_name(name)
         stars = repo["stargazers_count"]
         lang = repo["language"] or "Misc"
         
