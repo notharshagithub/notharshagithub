@@ -98,7 +98,7 @@
 <br/>
 
 <!-- SECTION: SYSTEMS & INFRASTRUCTURE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=SYSTEMS%20%26%20INFRASTRUCTURE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=SYSTEMS%20%7C%20INFRASTRUCTURE&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <table width="100%">
   <tr>
@@ -207,7 +207,7 @@
 <br/>
 
 <!-- SECTION: METRICS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=METRICS%20%26%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=40&section=header&text=METRICS%20%7C%20ANALYTICS&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%"/>
 
 <table width="100%">
   <tr>
