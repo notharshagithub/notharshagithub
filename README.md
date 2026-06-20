@@ -232,11 +232,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=notharshagithub&theme=github-dark&hide_border=true&bg_color=0a0a0a&color=ffffff&line=ffffff&point=888888" width="100%" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=notharshagithub&theme=pitchblack&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" width="100%" />
-</div>
 
 <br/>
 
