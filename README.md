@@ -254,7 +254,7 @@
 
 #### 📁 Recently Updated Repositories
 
-- 🔗 **[search-typeahead-system](https://github.com/notharshagithub/search-typeahead-system)** — *Misc* • Updated Jun 20, 2026<br/>
+- 🔗 **[search-typeahead-system](https://github.com/notharshagithub/search-typeahead-system)** — *JavaScript* • Updated Jun 20, 2026<br/>
   _A software development repository for search typeahead system._
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Jun 20, 2026<br/>
   _Config files for my GitHub profile._
