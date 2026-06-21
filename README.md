@@ -254,10 +254,10 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Jun 21, 2026<br/>
+  _Config files for my GitHub profile._
 - 🔗 **[search-typeahead-system](https://github.com/notharshagithub/search-typeahead-system)** — *JavaScript* • Updated Jun 20, 2026<br/>
   _A software development repository for search typeahead system._
-- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Jun 20, 2026<br/>
-  _Config files for my GitHub profile._
 - 🔗 **[BrowseIQ](https://github.com/notharshagithub/BrowseIQ)** — *Python* • Updated Jun 20, 2026<br/>
   _Intelligent web parsing, semantic extraction, and DOM analysis library._
 - 🔗 **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)** — *Python* • Updated Jun 19, 2026<br/>
