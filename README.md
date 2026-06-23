@@ -254,16 +254,16 @@
 
 #### 📁 Recently Updated Repositories
 
-- 🔗 **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)** — *Python* • ⭐ 1 • Updated Jun 23, 2026<br/>
-  _Autonomous LLM-driven browser agent for executing automated web workflows._
 - 🔗 **[ai-doc-analyzer-v2](https://github.com/notharshagithub/ai-doc-analyzer-v2)** — *CSS* • ⭐ 1 • Updated Jun 23, 2026<br/>
   _A software development repository for ai doc analyzer v2._
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Jun 23, 2026<br/>
+  _Config files for my GitHub profile._
+- 🔗 **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)** — *Python* • ⭐ 1 • Updated Jun 23, 2026<br/>
+  _Autonomous LLM-driven browser agent for executing automated web workflows._
 - 🔗 **[proj-brow](https://github.com/notharshagithub/proj-brow)** — *Python* • Updated Jun 23, 2026<br/>
   _A software development repository for proj brow._
 - 🔗 **[search-typeahead-system](https://github.com/notharshagithub/search-typeahead-system)** — *JavaScript* • Updated Jun 22, 2026<br/>
   _A software development repository for search typeahead system._
-- 🔗 **[BrowseIQ](https://github.com/notharshagithub/BrowseIQ)** — *Python* • Updated Jun 21, 2026<br/>
-  _Intelligent web parsing, semantic extraction, and DOM analysis library._
 
 #### ⚡ Recent Activity
 
