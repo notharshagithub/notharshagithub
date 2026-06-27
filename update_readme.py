@@ -99,15 +99,19 @@ def get_recent_activity():
                 lines.append(f"- 🛠️ Push to **[{repo_name}]({repo_url})**: `{message}` ({date_str})")
                 count += 1
         elif event_type == "PullRequestEvent":
-            action = event["payload"]["action"]
-            pr_title = event["payload"]["pull_request"]["title"]
-            pr_url = event["payload"]["pull_request"]["html_url"]
+            payload = event.get("payload", {})
+            action = payload.get("action", "updated")
+            pull_request = payload.get("pull_request") or {}
+            pr_title = pull_request.get("title") or "Untitled pull request"
+            pr_url = pull_request.get("html_url") or repo_url
             lines.append(f"- 🔀 Pull Request {action} in **[{repo_name}]({repo_url})**: [{pr_title}]({pr_url}) ({date_str})")
             count += 1
         elif event_type == "IssuesEvent":
-            action = event["payload"]["action"]
-            issue_title = event["payload"]["issue"]["title"]
-            issue_url = event["payload"]["issue"]["html_url"]
+            payload = event.get("payload", {})
+            action = payload.get("action", "updated")
+            issue = payload.get("issue") or {}
+            issue_title = issue.get("title") or "Untitled issue"
+            issue_url = issue.get("html_url") or repo_url
             lines.append(f"- ⚠️ Issue {action} in **[{repo_name}]({repo_url})**: [{issue_title}]({issue_url}) ({date_str})")
             count += 1
             
