@@ -254,6 +254,8 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[devops](https://github.com/notharshagithub/devops)** — *Shell* • Updated Aug 18, 2026<br/>
+  _A software development repository for devops._
 - 🔗 **[cloudgram](https://github.com/notharshagithub/cloudgram)** — *Python* • Updated Jul 09, 2026<br/>
   _A software development repository for cloudgram._
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Jul 09, 2026<br/>
@@ -262,8 +264,6 @@
   _A software development repository for ai doc analyzer v2._
 - 🔗 **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)** — *Python* • ⭐ 1 • Updated Jun 23, 2026<br/>
   _Autonomous LLM-driven browser agent for executing automated web workflows._
-- 🔗 **[proj-brow](https://github.com/notharshagithub/proj-brow)** — *Python* • Updated Jun 23, 2026<br/>
-  _A software development repository for proj brow._
 
 #### ⚡ Recent Activity
 
