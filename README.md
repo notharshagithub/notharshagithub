@@ -254,16 +254,16 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[devops_materials](https://github.com/notharshagithub/devops_materials)** — *Misc* • Updated Aug 20, 2026<br/>
+  _A software development repository for devops materials._
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Aug 20, 2026<br/>
+  _Config files for my GitHub profile._
 - 🔗 **[harsha-git](https://github.com/notharshagithub/harsha-git)** — *Misc* • Updated Aug 20, 2026<br/>
   _A software development repository for harsha git._
-- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Aug 19, 2026<br/>
-  _Config files for my GitHub profile._
 - 🔗 **[devops](https://github.com/notharshagithub/devops)** — *Shell* • Updated Aug 18, 2026<br/>
   _A software development repository for devops._
 - 🔗 **[cloudgram](https://github.com/notharshagithub/cloudgram)** — *Python* • Updated Jul 09, 2026<br/>
   _A software development repository for cloudgram._
-- 🔗 **[ai-doc-analyzer-v2](https://github.com/notharshagithub/ai-doc-analyzer-v2)** — *CSS* • ⭐ 1 • Updated Jun 23, 2026<br/>
-  _A software development repository for ai doc analyzer v2._
 
 #### ⚡ Recent Activity
 
