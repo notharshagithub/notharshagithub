@@ -254,6 +254,8 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[harsha-git](https://github.com/notharshagithub/harsha-git)** — *Misc* • Updated Aug 20, 2026<br/>
+  _A software development repository for harsha git._
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Aug 19, 2026<br/>
   _Config files for my GitHub profile._
 - 🔗 **[devops](https://github.com/notharshagithub/devops)** — *Shell* • Updated Aug 18, 2026<br/>
@@ -262,8 +264,6 @@
   _A software development repository for cloudgram._
 - 🔗 **[ai-doc-analyzer-v2](https://github.com/notharshagithub/ai-doc-analyzer-v2)** — *CSS* • ⭐ 1 • Updated Jun 23, 2026<br/>
   _A software development repository for ai doc analyzer v2._
-- 🔗 **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)** — *Python* • ⭐ 1 • Updated Jun 23, 2026<br/>
-  _Autonomous LLM-driven browser agent for executing automated web workflows._
 
 #### ⚡ Recent Activity
 
