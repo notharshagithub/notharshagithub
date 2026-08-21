@@ -254,10 +254,10 @@
 
 #### 📁 Recently Updated Repositories
 
-- 🔗 **[devops_materials](https://github.com/notharshagithub/devops_materials)** — *Misc* • Updated Aug 20, 2026<br/>
-  _A software development repository for devops materials._
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Aug 20, 2026<br/>
   _Config files for my GitHub profile._
+- 🔗 **[devops_materials](https://github.com/notharshagithub/devops_materials)** — *Misc* • Updated Aug 20, 2026<br/>
+  _A software development repository for devops materials._
 - 🔗 **[harsha-git](https://github.com/notharshagithub/harsha-git)** — *Misc* • Updated Aug 20, 2026<br/>
   _A software development repository for harsha git._
 - 🔗 **[devops](https://github.com/notharshagithub/devops)** — *Shell* • Updated Aug 18, 2026<br/>
