@@ -254,10 +254,10 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Sep 25, 2026<br/>
+  _Config files for my GitHub profile._
 - 🔗 **[ci-cd-pipeline](https://github.com/notharshagithub/ci-cd-pipeline)** — *Python* • Updated Sep 25, 2026<br/>
   _A software development repository for ci cd pipeline._
-- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Sep 24, 2026<br/>
-  _Config files for my GitHub profile._
 - 🔗 **[h-cicd](https://github.com/notharshagithub/h-cicd)** — *Shell* • Updated Sep 24, 2026<br/>
   _A software development repository for h cicd._
 - 🔗 **[devops_asgn](https://github.com/notharshagithub/devops_asgn)** — *Shell* • Updated Sep 08, 2026<br/>
