@@ -254,14 +254,14 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[devops_asgn](https://github.com/notharshagithub/devops_asgn)** — *Shell* • Updated Oct 13, 2026<br/>
+  _A software development repository for devops asgn._
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 12, 2026<br/>
   _Config files for my GitHub profile._
 - 🔗 **[ci-cd-pipeline](https://github.com/notharshagithub/ci-cd-pipeline)** — *Python* • Updated Sep 25, 2026<br/>
   _A software development repository for ci cd pipeline._
 - 🔗 **[h-cicd](https://github.com/notharshagithub/h-cicd)** — *Shell* • Updated Sep 24, 2026<br/>
   _A software development repository for h cicd._
-- 🔗 **[devops_asgn](https://github.com/notharshagithub/devops_asgn)** — *Shell* • Updated Sep 08, 2026<br/>
-  _A software development repository for devops asgn._
 - 🔗 **[devops_materials](https://github.com/notharshagithub/devops_materials)** — *Misc* • Updated Aug 20, 2026<br/>
   _A software development repository for devops materials._
 
