@@ -254,6 +254,8 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[devops-final](https://github.com/notharshagithub/devops-final)** — *Python* • Updated Oct 16, 2026<br/>
+  _A software development repository for devops final._
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 14, 2026<br/>
   _Config files for my GitHub profile._
 - 🔗 **[devops_asgn](https://github.com/notharshagithub/devops_asgn)** — *Shell* • Updated Oct 13, 2026<br/>
@@ -262,8 +264,6 @@
   _A software development repository for ci cd pipeline._
 - 🔗 **[h-cicd](https://github.com/notharshagithub/h-cicd)** — *Shell* • Updated Sep 24, 2026<br/>
   _A software development repository for h cicd._
-- 🔗 **[devops_materials](https://github.com/notharshagithub/devops_materials)** — *Misc* • Updated Aug 20, 2026<br/>
-  _A software development repository for devops materials._
 
 #### ⚡ Recent Activity
 
