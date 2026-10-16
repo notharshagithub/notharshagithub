@@ -256,7 +256,7 @@
 
 - 🔗 **[devops-final](https://github.com/notharshagithub/devops-final)** — *Python* • Updated Oct 16, 2026<br/>
   _A software development repository for devops final._
-- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 14, 2026<br/>
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 16, 2026<br/>
   _Config files for my GitHub profile._
 - 🔗 **[devops_asgn](https://github.com/notharshagithub/devops_asgn)** — *Shell* • Updated Oct 13, 2026<br/>
   _A software development repository for devops asgn._
@@ -267,6 +267,8 @@
 
 #### ⚡ Recent Activity
 
+- 🔀 Pull Request closed in **[notharshagithub/devops-final](https://github.com/notharshagithub/devops-final)**: [Untitled pull request](https://github.com/notharshagithub/devops-final) (Oct 16, 2026)
+- 🔀 Pull Request closed in **[notharshagithub/devops-final](https://github.com/notharshagithub/devops-final)**: [Untitled pull request](https://github.com/notharshagithub/devops-final) (Oct 16, 2026)
 - 🔀 Pull Request opened in **[KnightKnight27/scaler-HFT-C--2028](https://github.com/KnightKnight27/scaler-HFT-C--2028)**: [Untitled pull request](https://github.com/KnightKnight27/scaler-HFT-C--2028) (Oct 11, 2026)
 
 <!-- END_ACTIVITY -->
