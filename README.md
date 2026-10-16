@@ -254,6 +254,8 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[cpp-final](https://github.com/notharshagithub/cpp-final)** — *Misc* • Updated Oct 16, 2026<br/>
+  _A software development repository for cpp final._
 - 🔗 **[devops-final](https://github.com/notharshagithub/devops-final)** — *Python* • Updated Oct 16, 2026<br/>
   _A software development repository for devops final._
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 16, 2026<br/>
@@ -262,11 +264,10 @@
   _A software development repository for devops asgn._
 - 🔗 **[ci-cd-pipeline](https://github.com/notharshagithub/ci-cd-pipeline)** — *Python* • Updated Sep 25, 2026<br/>
   _A software development repository for ci cd pipeline._
-- 🔗 **[h-cicd](https://github.com/notharshagithub/h-cicd)** — *Shell* • Updated Sep 24, 2026<br/>
-  _A software development repository for h cicd._
 
 #### ⚡ Recent Activity
 
+- 🔀 Pull Request opened in **[KnightKnight27/scaler-HFT-C--2028](https://github.com/KnightKnight27/scaler-HFT-C--2028)**: [Untitled pull request](https://github.com/KnightKnight27/scaler-HFT-C--2028) (Oct 16, 2026)
 - 🔀 Pull Request closed in **[notharshagithub/devops-final](https://github.com/notharshagithub/devops-final)**: [Untitled pull request](https://github.com/notharshagithub/devops-final) (Oct 16, 2026)
 - 🔀 Pull Request closed in **[notharshagithub/devops-final](https://github.com/notharshagithub/devops-final)**: [Untitled pull request](https://github.com/notharshagithub/devops-final) (Oct 16, 2026)
 - 🔀 Pull Request opened in **[KnightKnight27/scaler-HFT-C--2028](https://github.com/KnightKnight27/scaler-HFT-C--2028)**: [Untitled pull request](https://github.com/KnightKnight27/scaler-HFT-C--2028) (Oct 11, 2026)
