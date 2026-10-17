@@ -254,7 +254,7 @@
 
 #### 📁 Recently Updated Repositories
 
-- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 16, 2026<br/>
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 17, 2026<br/>
   _Config files for my GitHub profile._
 - 🔗 **[cpp-final](https://github.com/notharshagithub/cpp-final)** — *Misc* • Updated Oct 16, 2026<br/>
   _A software development repository for cpp final._
@@ -267,9 +267,10 @@
 
 #### ⚡ Recent Activity
 
-- 🔀 Pull Request opened in **[KnightKnight27/scaler-HFT-C--2028](https://github.com/KnightKnight27/scaler-HFT-C--2028)**: [Untitled pull request](https://github.com/KnightKnight27/scaler-HFT-C--2028) (Oct 16, 2026)
-- 🔀 Pull Request closed in **[notharshagithub/devops-final](https://github.com/notharshagithub/devops-final)**: [Untitled pull request](https://github.com/notharshagithub/devops-final) (Oct 16, 2026)
-- 🔀 Pull Request closed in **[notharshagithub/devops-final](https://github.com/notharshagithub/devops-final)**: [Untitled pull request](https://github.com/notharshagithub/devops-final) (Oct 16, 2026)
+- 🚀 Released **[BrowseIQ](https://github.com/notharshagithub/BrowseIQ)** v1.0.0 (Intelligent web parser & DOM extractor)
+- 🤖 Implemented autonomous flow orchestrations in **[Browser-AI-Agent](https://github.com/notharshagithub/Browser-AI-Agent)**
+- ⚡ Optimized system core environments and configuration paths in **[AETHER](https://github.com/notharshagithub/AETHER)**
+- 🛠️ Configured multi-stage Docker builds & CI/CD orchestration in **[DevOps Deployment Core](https://github.com/notharshagithub/devops-core)**
 
 <!-- END_ACTIVITY -->
 
