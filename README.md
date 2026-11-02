@@ -254,6 +254,8 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[cvass2](https://github.com/notharshagithub/cvass2)** — *Misc* • Updated Nov 02, 2026<br/>
+  _A software development repository for cvass2._
 - 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 27, 2026<br/>
   _Config files for my GitHub profile._
 - 🔗 **[devops-final](https://github.com/notharshagithub/devops-final)** — *Python* • Updated Oct 27, 2026<br/>
@@ -262,8 +264,6 @@
   _A software development repository for cpp final._
 - 🔗 **[devops_asgn](https://github.com/notharshagithub/devops_asgn)** — *Shell* • Updated Oct 13, 2026<br/>
   _A software development repository for devops asgn._
-- 🔗 **[ci-cd-pipeline](https://github.com/notharshagithub/ci-cd-pipeline)** — *Python* • Updated Sep 25, 2026<br/>
-  _A software development repository for ci cd pipeline._
 
 #### ⚡ Recent Activity
 
