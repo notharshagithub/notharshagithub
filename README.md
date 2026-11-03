@@ -254,10 +254,10 @@
 
 #### 📁 Recently Updated Repositories
 
+- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Nov 02, 2026<br/>
+  _Config files for my GitHub profile._
 - 🔗 **[cvass2](https://github.com/notharshagithub/cvass2)** — *Misc* • Updated Nov 02, 2026<br/>
   _A software development repository for cvass2._
-- 🔗 **[notharshagithub](https://github.com/notharshagithub/notharshagithub)** — *Python* • Updated Oct 27, 2026<br/>
-  _Config files for my GitHub profile._
 - 🔗 **[devops-final](https://github.com/notharshagithub/devops-final)** — *Python* • Updated Oct 27, 2026<br/>
   _A software development repository for devops final._
 - 🔗 **[cpp-final](https://github.com/notharshagithub/cpp-final)** — *Misc* • Updated Oct 16, 2026<br/>
